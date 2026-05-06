@@ -15,9 +15,7 @@ Painel em **dark mode** para acompanhamento de sprints, entregas e progresso de 
 
 ## 🛠️ Tecnologias
 
-- HTML5  
-- CSS3  
-- JavaScript (Vanilla)
+![HTML5](https://img.shields.io/badge/HTML5-e34F26?style=flat&logo=html5logoColor=white)
 
 ---
 
